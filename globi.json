@@ -1,6 +1,7 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
   "format": "ices",
+  "citation": "Cooperative Research Report No. 164; Cooperative Research Report No. 219, ICES Stomach DatasetImpl, International Council for the Exploration of the Sea (ICES). Available at http://www.ices.dk/products/cooperative.asp .",
   "resources": {
     "ices/StomachDataSet.csv.gz": "StomachDataSet.csv.gz"
   }
