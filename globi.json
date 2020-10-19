@@ -1,6 +1,7 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
   "format": "ices",
+  "citation": "International Council for the Exploration of the Sea (ICES). Year of The Stomach Datasets.",
   "resources": {
     "ices/StomachDataSet.csv.gz": "StomachDataSet.csv.gz"
   }
